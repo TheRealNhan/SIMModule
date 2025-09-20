@@ -1,0 +1,6 @@
+.mp4
+.env
+.vscode/
+.log
+.env.local
+.env.*.local
